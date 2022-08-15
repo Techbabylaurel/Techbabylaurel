@@ -16,5 +16,5 @@ I am a Software Engineer and Business woman who currently is learning to be a wo
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=techbabylaurel&show_icons=true&include_all_commits=true&hide_border=true" alt="Laurel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbabylaurel&langs_count=8&layout=compact&hide_border=true" alt="Laurel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=EjiroLaurelD&show_icons=true&include_all_commits=true&hide_border=true" alt="Laurel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EjiroLaurelD&langs_count=8&layout=compact&hide_border=true" alt="Laurel's GitHub stats" /> |
 | ------------- | ------------- |
