@@ -9,7 +9,7 @@ I am a Software Engineer and Business woman who currently is learning to be a wo
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I am a Software Engineering student and a Cake Artist. I own a growing bakery business and currently transitioning into Tech, learning with AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. I want to excel in whatever i do and work with a team.  In the nearest future, I would be doing great things, making the world a better place one day at a time with exciting technologies and sweet treats.
 
-- 🌱 I am currently learning how to make good contributions to open source projects, Linux, Bashscript, Python and Cloud technologies like AWS, GCP, and Azure.
+- 🌱 I am currently learning how to make good contributions to Open Source projects, Linux, Bashscript, Python and Cloud Technologies like AWS, GCP, and Azure.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer, Technical Support Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing dafelaurele@gmail.com.
