@@ -21,7 +21,7 @@ Basic understanding of:
 - Linux
 - Git and Version Control 
 
-***And, I am open-mind to learning other Tech Stacks if needed.***
+***And, I am happy to learn other Tech Stacks if needed.***
 
 ## 🔍 Currently Learning:
 - Linux
@@ -39,7 +39,6 @@ Basic understanding of:
 ## 🚀 How to reach me:
 - Email: [dafelaurele@gmail.com](dafelaurele@gmail.com)
 - LinkedIn: [EjirolaurelD](https://www.linkedin.com/in/ejiroghenelaureldafe)
-- Instagram: [@msdafe](https://instagram.com/msdafe)
 - Twitter: [@l4laurel](https://twitter.com/L4laurel)
 
 ---
