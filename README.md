@@ -17,8 +17,6 @@ I am a Software Engineering student and a self employed Cake Artist. I am transi
 Intermediate knowledge of: 
 - Linux Operating System
 - Git and Version control
-- Bash
-- Ansible
 
 Basic understanding of:
 - HTML
@@ -26,6 +24,8 @@ Basic understanding of:
 - Javascript
 - C
 - Python
+- Bash
+- Ansible
 
 ## 🔍 Currently Learning:
 - Python
