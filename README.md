@@ -6,23 +6,21 @@
   <img src="https://komarev.com/ghpvc/?username=Ze-Austin&style=flat-square&color=blue" alt="Profile View Counter"/>
 </div>
 
-I am a Cloud DevOps Engineer currently looking for entry-level roles and internships in the tech industry. I have good hands-on knowledge of architecting, automating and optimizing deployments over cloud infrastructures, which has proven to help the software development lifecycle. I am proficient with configuration management tools and developing CI/CD pipelines. I have achieved one AWS certification while preparing for an associate certification. I have experience in client-facing positions and very passionate about the energy and the drive that is obtainable in learning and working with new tools and technologies.
+I am a Cloud/DevOps Engineer with hands-on knowledge of architecting, automating and optimising deployments over cloud infrastructures. Proficient with infrastructures as code, configuration management,  and  developing CI/CD pipelines. Possess a strong team spirit with experience in client-facing positions and very passionate about the energy and the drive that is obtainable in learning and working with cloud tools and technologies.
 
-![image](https://user-images.githubusercontent.com/99752279/213578473-94122b84-e8d9-4867-89a6-17a2d20655ed.png)
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I love cakes and I can make them from scratch🙂
  
-## 💼 Career
-I am a Cloud Engineering student learning Cloud Engineering with AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. I want to excel in whatever i do and work with a team.  In the nearest future, I would be doing great things, making the world a better place one day at a time with exciting technologies.
-
 ## 💻 Tech Stacks
 Intermediate knowledge of: 
 - Linux Operating System
 - Git and Version control
-- Configuration management tools(Ansible and Terraform)
+- Ansible
+- Terraform
+- Cloud Technologies (AWS,Digital Ocean, GCP)
 
 
 Basic understanding of:
@@ -41,7 +39,7 @@ Basic understanding of:
 ***And, I am happy to learn other Tech Stacks if needed.***
 
 ## 💼 Job interests: 
- I’m looking for Internships and entry-level opportunities in Cloud Computing .
+ I’m looking for opportunities in Cloud Computing .
 - Cloud Engineer, Devops Engineer (Intern or Junior level).
 
 ## 📜 Certifications:
