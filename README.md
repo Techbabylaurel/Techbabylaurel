@@ -22,9 +22,10 @@ Basic knowledge of:
 - Infrastructure as code (Terraform, Cloud formation)
 - Containerization (Docker)
 - Orchestration (Kubernetes)
-- CI/CD (Jenkins)
+- CI/CD (Jenkins, Github Actions)
+- Monitoring (Prometheus and Grafana)
 - Distributed Tracing/Observability (Honeycomb, AWS Xray, Rollbar)
-- Cloud Technologies (AWS,Digital Ocean, GCP)
+- Cloud Technologies (AWS, Azure, Digital Ocean,GCP)
 
 
 Basic understanding of:
@@ -45,16 +46,18 @@ Basic understanding of:
 
 ## 💼 Job interests: 
  I’m looking for opportunities in Cloud Computing .
-- Cloud Engineer, Devops Engineer (Intern or Junior level).
+- Cloud Service Engineer, DevOps Engineer.
 
 ## 📜 Certifications:
 - [AWS Cloud Practitioner](https://www.credly.com/badges/ecbc4c51-5a2d-4482-a040-207b92028838/linked_in_profile)
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/6f0c3089-f941-4892-a0fa-3b7587bd0e5a/public_url)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/9c5ea7f6-822c-49ae-877f-e97592daea99/public_url)
 
 ## 🚀 How to reach me:
 - Email: [dafelaurele@gmail.com](dafelaurele@gmail.com)
 - LinkedIn: [EjirolaurelD](https://www.linkedin.com/in/ejiroghenelaureldafe)
 - Twitter: [@l4laurel](https://twitter.com/L4laurel)
-
+- Website: [EjiroLaurelD](ejirolaureld.me)
 ---
 
 
