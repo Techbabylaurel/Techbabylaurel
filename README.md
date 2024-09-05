@@ -6,7 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ze-Austin&style=flat-square&color=blue" alt="Profile View Counter"/>
 </div>
 
-I am a Cloud/DevOps Engineer with hands-on knowledge of architecting, automating and optimising deployments over cloud infrastructures. Proficient with infrastructures as code, configuration management,  and  developing CI/CD pipelines. Possess a strong team spirit with experience in client-facing positions and very passionate about the energy and the drive that is obtainable in learning and working with cloud tools and technologies.
+I am a Cloud/DevOps Engineer with experience architecting, automating and optimising deployments over cloud infrastructures. Proficient with infrastructures as code, configuration management, and  developing CI/CD pipelines. Possess a strong team spirit with committment to enhancing collaboration and contributing to the successful implementation of best practices in a dynamic organization.
+
 
 
 **Here's a quick summary about me**:
@@ -15,49 +16,53 @@ I am a Cloud/DevOps Engineer with hands-on knowledge of architecting, automating
 - 💡 Fun fact: I love cakes and I can make them from scratch🙂
  
 ## 💻 Tech Stacks
-Basic knowledge of: 
-- Linux Operating System
-- Git and Version control
-- Configuration management (Ansible)
-- Infrastructure as code (Terraform, Cloud formation)
-- Containerization (Docker)
-- Orchestration (Kubernetes)
-- CI/CD (Jenkins, Github Actions)
-- Monitoring (Prometheus and Grafana)
-- Distributed Tracing/Observability (Honeycomb, AWS Xray, Rollbar)
-- Cloud Technologies (AWS, Azure, Digital Ocean,GCP)
+- Cloud Technologies: AWS, Azure, Digital Ocean, GCP
+- Web Server: Apache, Nginx
+- Operating Systems: Linux, Windows
+- IAC: Terraform, Terragrunt, Ansible, Helm. 
+- Containerization:  Docker 
+- Orchestration: Kubernetes,
+- CI/CD: Jenkins, Github Actions, Azure DevOps
+- Scripting: Bash, Python, Groovy, YAML 
+- Controllers: NGINX, AWS
+- Networking:  TCP/IP, DNS, Routing, VPN Programming
+- Monitoring and Logging: Prometheus, Grafana, ELK.
+- Distributed Tracing/Observability: Honeycomb, AWS Xray, Rollbar
+- SIEM: WAZUH
+- IDE: Lens, VSCode
+- Databases: MySQL, PostgreSQL, AuroraDB, MongoDB, DynamoDB
+- Version Control: Git
+- Project Management: DevOps, Agile, ITIL4 trained. 
 
-
-Basic understanding of:
+Basic understanding of Programming languages:
 - HTML
 - CSS
 - Javascript
 - C
+- Java
 - Python
-- Bash
-- HCL
-- YAML
-
+  
 ## 🔍 Currently Learning:
-- Python
+- Python, Java
 - Cloud Technologies(AWS, GCP, AZURE) and tools
 
 ***And, I am happy to learn other Tech Stacks if needed.***
 
 ## 💼 Job interests: 
- I’m looking for opportunities in Cloud Computing .
-- Cloud Service Engineer, DevOps Engineer.
+ I’m looking for opportunities in Cloud Computing.
+- Cloud Engineer, DevOps Engineer, SRE.
 
 ## 📜 Certifications:
 - [AWS Cloud Practitioner](https://www.credly.com/badges/ecbc4c51-5a2d-4482-a040-207b92028838/linked_in_profile)
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/6f0c3089-f941-4892-a0fa-3b7587bd0e5a/public_url)
 - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/9c5ea7f6-822c-49ae-877f-e97592daea99/public_url)
+- [Linux Foundation Certified Systems Administrator](https://www.credly.com/badges/ea5dae86-a36a-4910-976c-d4ff8b4c40e3)
+- [Google Cloud Associate Cloud Engineer](https://google.accredible.com/fd727d79-ed95-44d1-8a49-08570c8086ec#gs.3tvmld)
 
 ## 🚀 How to reach me:
 - Email: [dafelaurele@gmail.com](dafelaurele@gmail.com)
 - LinkedIn: [EjirolaurelD](https://www.linkedin.com/in/ejiroghenelaureldafe)
 - Twitter: [@l4laurel](https://twitter.com/L4laurel)
-- Website: [EjiroLaurelD](ejirolaureld.me)
 ---
 
 
